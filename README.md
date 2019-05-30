@@ -21,6 +21,10 @@ It would be helpful to use a Git GUI tool (such as GitKraken) to better visualiz
 1. `./rebase-master-branch`
 2. `cd learn-rebase-branch`
 
+**To cleanup directory and restart**
+
+`rm -rf learn-rebase-branch`
+
 **Objective**
 
 Use `git rebase` to reach the target state for this repository / Rebase the current branch to the latest commit on master using `git rebase`
